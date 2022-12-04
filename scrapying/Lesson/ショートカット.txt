@@ -1,0 +1,19 @@
+ctr + b =フォルダの出しわけ
+cmd + shift +e フォルダへのカーソル移動
+cmd + l = ターミナルのクリア
+cmd + j = ターミナルの出しわけ
+ctr + tab =　タブの切り替え
+
+
+# コード上で使用する
+cmd + enter = ポインターだけ改行
+option + 上下　= 現在の行の記載を移動
+cmd + / = コメントアウト
+shift + option + 上下 = 行の複製
+ctr + d、option + マウス = ポインターを増やす
+
+ctr + shif + o = 関数を探すことができる
+cmd + enter 下に空行を入れる
+ctr + g =　行の移動
+
+

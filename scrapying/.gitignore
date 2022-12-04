@@ -1,0 +1,19 @@
+# 共通
+Pipfile
+.vscode/
+.DS_Store
+
+# bookstudyフォルダ
+bookstudy/imageFolder
+*.csv
+*.pdf
+
+
+# Lessonフォルダ
+
+
+# seleniumフォルダ
+chromedriver
+tools/
+
+
